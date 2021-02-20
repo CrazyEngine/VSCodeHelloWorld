@@ -1,5 +1,6 @@
 # VSCodeHelloWorld
 Hello World sample for Visual Studio Code
+
 1、工程配置文件都位于.vscode文件夹里，默认情况下，在Ubuntu的文件夹里看不到，但在VS Code里能看到，这些文件名都是不能改变的。
 2、tasks.json里面用于配置构建命令，相当于Visual studio里的Build。"tasks"后面的每一个大括号里，每一个大括号里的内容就是一个Task。
 3、launch.json里面用于配置启动项，相当于Visual studio里的调试运行。第一次运行找不到这个文件时会出现“Run and Debug”按钮，点击，选择
